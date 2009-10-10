@@ -1,3 +1,8 @@
+1.04 10 Oct 2009
+----------------
+Added PREREQ for Text::Balanced 1.99 as per RT #1443
+Removed the MY override of test_via_harness, fails on Strawberry RT #50225
+
 1.02 04 Sep 2002
 ----------------
 Removed some debug information that would show up if the module died.
