@@ -325,5 +325,6 @@ WriteMakefile(
 	PREREQ_PM		=> {
 		'Filter::Simple'    => 0,
 		'Test::More'        => 0,
+    'Text::Balanced'    => 1.99,
 	},
 );
